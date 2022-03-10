@@ -1,0 +1,11 @@
+build
+.dart_tool
+ios
+lib
+linux
+web
+windows
+android
+pubspec.lock
+git_desktop.iml
+.packages
